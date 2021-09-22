@@ -5,5 +5,5 @@
 2. Copy the binary file to your jailbroken iPhone's `/usr/bin/` directory using `scp`.
 3. Example usage:
 ```
-pbcopy hackThePlanet
+pbpaste hackThePlanet
 ```
