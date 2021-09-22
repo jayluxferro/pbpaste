@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "69103F2426F672ED00C612F8"
-               BuildableName = "pbcopy.app"
+               BuildableName = "pbpaste.app"
                BlueprintName = "pbpaste"
                ReferencedContainer = "container:pbpaste.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "69103F2426F672ED00C612F8"
-            BuildableName = "pbcopy.app"
+            BuildableName = "pbpaste.app"
             BlueprintName = "pbpaste"
             ReferencedContainer = "container:pbpaste.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "69103F2426F672ED00C612F8"
-            BuildableName = "pbcopy.app"
+            BuildableName = "pbpaste.app"
             BlueprintName = "pbpaste"
             ReferencedContainer = "container:pbpaste.xcodeproj">
          </BuildableReference>
